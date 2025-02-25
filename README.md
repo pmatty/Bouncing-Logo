@@ -62,12 +62,4 @@ Video saved as: logo.mp4
 The generated video will show your logo bouncing around the screen with random speed and direction variations.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-### Notes:
-- Replace `yourusername` and `bouncing-logo-video-generator` in the repository URL with your actual GitHub username and repository name.
-- Add a `LICENSE` file if you want to include licensing information.
-
-This `README.md` provides a clear and concise guide for users to understand, set up, and use your project. Let me know if you need further adjustments!
+This project is licensed under the MIT License.
