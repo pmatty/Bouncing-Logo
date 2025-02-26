@@ -16,7 +16,7 @@ This Python script generates a video of a bouncing logo using `Pygame` and `Movi
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/pmatty/Bouncing-Logo.git
+   git clone https://github.com/pmatty/RetroBoune.git
    cd bouncing-logo-video-generator
    ```
 
@@ -33,7 +33,7 @@ This Python script generates a video of a bouncing logo using `Pygame` and `Movi
 2. **Run the Script**:
    - Execute the script using Python:
      ```bash
-     python bouncing_logo.py
+     python RetroBounce.py
      ```
    - When prompted, enter the name of your image file (e.g., `logo.png`).
 
